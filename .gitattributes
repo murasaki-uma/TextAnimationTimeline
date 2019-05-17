@@ -1,0 +1,4 @@
+/Assets/TextAnimationTimeline/sdf/TestSDF.asset filter=lfs diff=lfs merge=lfs -text
+Assets/TextAnimationTimeline/sdf/TestSDF.asset filter=lfs diff=lfs merge=lfs -text
+Assets/TextMesh filter=lfs diff=lfs merge=lfs -text
+Pro/Resources/Fonts filter=lfs diff=lfs merge=lfs -text
